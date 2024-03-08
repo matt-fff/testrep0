@@ -25,5 +25,5 @@ fi
 for ((i=1; i<=X; i++))
 do
   # Call the script
-  ./gen-pr.sh
+  ./scripts/gen-pr.sh
 done
